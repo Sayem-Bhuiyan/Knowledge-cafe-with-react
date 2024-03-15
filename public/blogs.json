@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/3NZ6TN5/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "title": "10 Essential Frontend Frameworks for Web Development",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/0y7vb5K/ospan-ali-6xv4-A1-VA1r-U-unsplash.jpg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 20,
+      "hashtags": ["#webdevelopment", "#frontend", "#frameworks"]
+    },
+    {
+      "id": "987654",
+      "cover": "https://i.ibb.co/p0Vqbhd/blue-copybook-with-note-colorful-pencils-dark-surface.jpg",
+      "title": "Building Responsive Websites with Bootstrap",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/pRzTcgx/imansyah-muhamad-putera-n4-Kew-LKFOZw-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 25,
+      "hashtags": ["#webdevelopment", "#bootstrap", "#responsive"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/M9Jxtgj/development-with-abstract-background.jpg",
+      "title": "Mastering CSS Grid Layouts: A Comprehensive Guide",
+      "author": "Jessica Brown",
+      "author_img": "https://i.ibb.co/hWfQMFP/houcine-ncib-B4-Tj-Xn-I0-Y2c-unsplash.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 30,
+      "hashtags": ["#webdevelopment", "#css", "#gridlayouts"]
+    },
+    {
+      "id": "654321",
+      "cover": "https://i.ibb.co/NjhrhB1/modern-technology-trending-innovation-concept.jpg",
+      "title": "10 Best Practices for Modern JavaScript Development",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/HC6fN7d/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 40,
+      "hashtags": ["#webdevelopment", "#javascript", "#bestpractices"]
+    },
+    {
+      "id": "234567",
+      "cover": "https://i.ibb.co/4NvYNhv/hiker-with-backpack-relaxing-enjoying-sunset.jpg",
+      "title": "Optimizing Web Performance: Tips and Tricks",
+      "author": "Sarah White",
+      "author_img": "https://i.ibb.co/3BgWwN9/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 15,
+      "hashtags": ["#webdevelopment", "#performance", "#optimization"]
+    }
+  ]
+  

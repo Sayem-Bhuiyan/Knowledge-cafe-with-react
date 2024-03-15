@@ -1,10 +1,13 @@
-import './App.css'
+import './App.css';
+import Header from './components/Header/Header';
 
 function App() {
 
   return (
     <>
-      <h1 className='text-6xl font-bold'>Knowledge Kafe</h1>
+      <div className='container mx-auto mt-10'>
+        <Header />
+      </div>
     </>
   )
 }
