@@ -1,50 +1,50 @@
 [
     {
       "id": "123456",
-      "cover": "https://i.ibb.co/3NZ6TN5/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "cover": "https://i.postimg.cc/LXMcxsLJ/1.jpg",
       "title": "10 Essential Frontend Frameworks for Web Development",
       "author": "Emily Smith",
-      "author_img": "https://i.ibb.co/0y7vb5K/ospan-ali-6xv4-A1-VA1r-U-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/mDHQgb5y/boy1.png",
       "posted_date": "March 15, 2024",
       "reading_time": 20,
       "hashtags": ["#webdevelopment", "#frontend", "#frameworks"]
     },
     {
       "id": "987654",
-      "cover": "https://i.ibb.co/p0Vqbhd/blue-copybook-with-note-colorful-pencils-dark-surface.jpg",
+      "cover": "https://i.postimg.cc/BQvdYkLB/2.png",
       "title": "Building Responsive Websites with Bootstrap",
       "author": "David Johnson",
-      "author_img": "https://i.ibb.co/pRzTcgx/imansyah-muhamad-putera-n4-Kew-LKFOZw-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/Mp3R0MkY/boy2.jpg",
       "posted_date": "March 14, 2024",
       "reading_time": 25,
       "hashtags": ["#webdevelopment", "#bootstrap", "#responsive"]
     },
     {
       "id": "456789",
-      "cover": "https://i.ibb.co/M9Jxtgj/development-with-abstract-background.jpg",
+      "cover": "https://i.postimg.cc/hjgY95Rx/3.png",
       "title": "Mastering CSS Grid Layouts: A Comprehensive Guide",
       "author": "Jessica Brown",
-      "author_img": "https://i.ibb.co/hWfQMFP/houcine-ncib-B4-Tj-Xn-I0-Y2c-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/xdkm6fnV/girl1.jpg",
       "posted_date": "March 13, 2024",
       "reading_time": 30,
       "hashtags": ["#webdevelopment", "#css", "#gridlayouts"]
     },
     {
       "id": "654321",
-      "cover": "https://i.ibb.co/NjhrhB1/modern-technology-trending-innovation-concept.jpg",
+      "cover": "https://i.postimg.cc/0jyH4KQy/4.jpg",
       "title": "10 Best Practices for Modern JavaScript Development",
       "author": "Michael Anderson",
-      "author_img": "https://i.ibb.co/HC6fN7d/daniel-lincoln-NR705be-N-CU-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/VvF0J5Bn/girl2.jpg",
       "posted_date": "March 12, 2024",
       "reading_time": 40,
       "hashtags": ["#webdevelopment", "#javascript", "#bestpractices"]
     },
     {
       "id": "234567",
-      "cover": "https://i.ibb.co/4NvYNhv/hiker-with-backpack-relaxing-enjoying-sunset.jpg",
+      "cover": "https://i.postimg.cc/BQvdYkLB/2.png",
       "title": "Optimizing Web Performance: Tips and Tricks",
       "author": "Sarah White",
-      "author_img": "https://i.ibb.co/3BgWwN9/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "author_img": "https://i.postimg.cc/Mp3R0MkY/boy2.jpg",
       "posted_date": "March 11, 2024",
       "reading_time": 15,
       "hashtags": ["#webdevelopment", "#performance", "#optimization"]
