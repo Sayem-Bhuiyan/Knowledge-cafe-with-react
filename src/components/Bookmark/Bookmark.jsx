@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const Bookmark = ({bookmark, index}) => {
+const Bookmark = ({bookmark, index }) => {
     console.log(typeof index)
     const {title} = bookmark;
     return (
